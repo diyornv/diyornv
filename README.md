@@ -5,9 +5,9 @@
 <img src="https://github.com/diyornv/diyornv/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/diyornv"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
   
-  - 🔭 I’m currently a Graduate Research student in ML at Georgia Tech.
-  - 🌱 I’m currently learning Machine Learning and Big Data
-  - 💬 Ask me about [diyornv](https://www.youtube.com/@diyornv), [Chess](https://www.chess.com/member/diyornv)
+  - 🔭 I am currently a student at Ustudy IT Academy.
+  - 🌱 I’m currently learning Next js and NixOs
+  - 💬 Ask me about [diyornv](https://www.youtube.com/@diyornv),
   - 😄 Pronouns: He / Him
   
   #### 📫 How to reach me:
@@ -53,3 +53,20 @@ E-commerce               23 mins             ███░░░░░░░░�
 Weather-app              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 
 ```
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/diyornv/diyornv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyornv&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/diyornv/diyornv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diyornv&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+<a href="https://github.com/diyornv/my-nixos-starter-config">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diyornv&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/diyornv/gamepay">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diyornv&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
