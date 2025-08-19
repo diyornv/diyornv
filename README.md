@@ -68,3 +68,5 @@ Weather-app              4 mins              ░░░░░░░░░░░�
 <a href="https://github.com/diyornv/gamepay">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diyornv&repo=gamepay&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
+<script src="https://gist.github.com/diyornv/bc40a2ac315cca6040ddd881a7ba033b.js"></script>
