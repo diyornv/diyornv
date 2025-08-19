@@ -59,6 +59,8 @@ Weather-app              4 mins              ░░░░░░░░░░░�
 <a href="https://github.com/diyornv/diyornv">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyornv&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 <hr>
 <br>
 <a href="https://github.com/diyornv/my-nixos-starter-config">
@@ -68,5 +70,3 @@ Weather-app              4 mins              ░░░░░░░░░░░�
 <a href="https://github.com/diyornv/gamepay">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diyornv&repo=gamepay&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
-<script src="https://gist.github.com/diyornv/bc40a2ac315cca6040ddd881a7ba033b.js"></script>
